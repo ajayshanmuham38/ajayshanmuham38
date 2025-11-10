@@ -1,16 +1,13 @@
 Welcome! I am Ajay Singaravelu.
 =================================
 
-Software generalist and full-stack developer
+Full-stack Software generalist as an Engineer & Developer
 --------------------------------------------
 
-ROI-centric and outcome-oriented software professional with 5+ years of experience in .NET engineering and full-stack development. 
-Skilled in building and deploying DevOps pipelines and cloud services using MS-Biz Stack, focusing on cost-efficient enterprise solutions, modernizing legacy codebases, and developing robust back-end/server-side frameworks alongside modern front-end technologies. 
-Adept at translating complex business requirements into scalable architectures through strong cross-functional collaboration, mentoring offshore teams, and employing effective communication aligned with best SDLC and microservices practices. 
-Proven ability to overcome significant challenges, delivering impactful results. As an opportunity-seeking engineer with an entrepreneurial mindset, I excel at anticipating evolving organizational needs and driving solutions from proof of concept to production-ready web deployments, maintaining 99.999% system availability.
+Value-driven & Educated IT Professional Experience in building centralized data lakes from PoC Projects to production quality for big datasets (60m+ records; 7+ TB/day). Backed by a graduate degree specializing in AI. Proficient in Python (Pandas, Spark), SQL, and NoSQL databases, and in building robust data pipelines (ETL/ELT) for scalable analytics. Hold in-depth knowledge of OS internals and high-performance computing (HPC) on cloud compute clusters, and implemented resource-oriented scheduling for distributed systems, delivering cost savings W.R.T to resource utilization used to modernize legacy code for higher performance and scalability. Orchestrated automation accelerated data workflows by 40% and ensured 99.999% uptime for mission-critical systems, improving operational agility and saving $1.2m annually in cloud costs. Driving scrum meetings and leading end-2-end technical delivery in high-stakes environments.
 
-*   🌍  I'm based in the United States
-*   ✉️  You can contact me at [10ajay.ss30@gmail.com](mailto:10ajay.ss30@gmail.com)  or +1-(571)-697-7874
+*   🌍  I'm based in the Concord, NC, East U.S. of A.
+*   ✉️  You can contact me at [sayhi2ajay97@gmail.com](mailto:sayhi2ajay97@gmail.com)  or (+1) 704-352-2308
 
 ### Skills 
 <p align="left">
